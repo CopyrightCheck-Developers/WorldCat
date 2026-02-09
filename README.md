@@ -23,3 +23,5 @@ auth_url: https://oauth.oclc.org/auth
 token_url: https://oauth.oclc.org/token
 
 worldcat_api_url: https://americas.discovery.api.oclc.org/worldcat/search/v2
+
+The RIS generator script is intended to use a simple Excel file that has ISBN and DOI codes and allows you to generate very basic RIS files that can be used to create Reading lists (Talis Aspire).
